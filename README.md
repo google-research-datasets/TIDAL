@@ -1,8 +1,8 @@
 # TIDAL: Textual Identity Detection and Augmentation Lexicon
 
-This repository contains the TIDAL dataset for the paper "[TIDE: Textual
+This repository contains the TIDAL dataset for the paper [TIDE: Textual
 Identity Detection for Evaluating and Augmenting Classification and Language
-Models](https://arxiv.org/abs/2309.04027)
+Models](https://arxiv.org/abs/2309.04027).
 
 Note: This dataset contains pejorative terms that may be offensive.
 
