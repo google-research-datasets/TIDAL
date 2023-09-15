@@ -6,6 +6,8 @@ Models](https://arxiv.org/abs/2309.04027).
 
 Note: This dataset contains pejorative terms that may be offensive.
 
+TIDE annotator code can be found at: https://github.com/google-research/google-research/tree/master/tide_nlp
+
 ## Overview
 TIDAL dataset has been created to aid annotation of textual datasets with identity tokens to help with fairness evaluation and remediation of datasets and models. It supports only the English language, but has broad coverage of identity terms and grammatical variants across three IdentityGroups: Race, Nationality or Ethnicity (RNE), Sexual Orientation, Gender Identity, Gender Expression and Sex Characteristics (SOGIESC) and Religion. Each head and related form is associated with grammatical properties (e.g. part-of-speech, grammatical gender) and context (or “sense”) entries (e.g. identity groups/subgroups, connotation).
 
